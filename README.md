@@ -10,4 +10,4 @@ Features:
 - Add Task
 - Add Task description
 - Delete Task
-- Marks as Complete
+- Mark as Complete
