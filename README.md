@@ -5,3 +5,9 @@ build using:
 - HTML
 - CSS 
 - JavaScript
+
+Features:
+- Add Task
+- Add Task description
+- Delete Task
+- Marks as Complete
