@@ -1,5 +1,5 @@
 # Task_Manager
-A simple task manager or ine can say a TO-DO list.
+A simple task manager or one can say a TO-DO list.
 
 build using:
 - HTML
